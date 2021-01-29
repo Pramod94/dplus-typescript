@@ -1,0 +1,19 @@
+@import '../../_settings/_variables.css';
+
+.wrapper {
+    position: relative;
+}
+
+.img {
+    width: 197px;
+    height: 115px;
+    border-radius: 13px;
+}
+
+.text {
+    position: absolute;
+    left: 50%;
+    top: 75%;
+    transform: translate(-50%, -50%);
+    color: var(--color-white);
+}

@@ -1,0 +1,24 @@
+@import '../../_settings/_variables.css';
+
+.navItems {
+    display: flex;
+}
+
+.navItem {
+    color: var(--color-grey);
+    padding: 0 1rem;
+    font-size: 1rem;
+    text-align: center;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.2s;
+    align-self: center;
+}
+
+.navItem:first-child {
+    color: var(--color-white);
+}
+
+.navItem:hover {
+    color: var(--color-white);
+}

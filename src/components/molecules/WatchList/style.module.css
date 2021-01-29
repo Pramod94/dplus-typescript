@@ -1,0 +1,28 @@
+@import "../../_settings/_variables.css";
+
+.cards {
+  display: flex;
+  overflow: auto;
+}
+
+.cards::-webkit-scrollbar {
+  display: none;
+}
+
+.eachCard {
+  padding-right: 10px;
+}
+
+.wrapper {
+  padding-bottom: 2rem;
+}
+
+.title {
+  color: var(--color-white);
+  padding: 1rem;
+}
+
+.watchWrapper {
+  padding: 0 3rem;
+  background-color: var(--watchList-background);
+}

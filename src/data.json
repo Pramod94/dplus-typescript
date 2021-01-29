@@ -1,0 +1,101 @@
+{
+    "navBar": {
+        "items": ["Home", "Explore", "Shorts", "Mindblown", "Premium"],
+        "searchPlaceHolder": "Search for a show, episode, shorts etc.",
+        "buttonLable": "Sign In"
+    },
+    "category": [
+        {
+            "text": "Adventure"
+        },
+        {
+            "text": "Animals"
+        },
+        {
+            "text": "Auto"
+        },
+        {
+            "text": "Adventure"
+        },
+        {
+            "text": "Animals"
+        },
+        {
+            "text": "Auto"
+        },
+        {
+            "text": "Adventure"
+        },
+        {
+            "text": "Animals"
+        },
+        {
+            "text": "Auto"
+        }
+    ],
+    "watchList": [
+        {
+            "title": "Watch and Learn",
+            "shows":[
+                {
+                    "title": "How do they do it?",
+                    "subTitle": "An insider's look shows the mechanism of work"
+                },
+                {
+                    "title": "Street science",
+                    "subTitle": "Mr.Kevin leaves the lab and goes to resturant"
+                },
+                {
+                    "title": "How do they do it?",
+                    "subTitle": "An insider's look shows the mechanism of work"
+                },
+                {
+                    "title": "Street science",
+                    "subTitle": "Mr.Kevin leaves the lab and goes to resturant"
+                }
+            ]
+        },
+        {
+            "title": "Shows you love",
+            "shows":[
+                {
+                    "title": "How do they do it?",
+                    "subTitle": "An insider's look shows the mechanism of work"
+                },
+                {
+                    "title": "Street science",
+                    "subTitle": "Mr.Kevin leaves the lab and goes to resturant"
+                },
+                {
+                    "title": "How do they do it?",
+                    "subTitle": "An insider's look shows the mechanism of work"
+                },
+                {
+                    "title": "Street science",
+                    "subTitle": "Mr.Kevin leaves the lab and goes to resturant"
+                }
+            ]
+        },
+        {
+            "title": "Newly added",
+            "shows":[
+                {
+                    "title": "How do they do it?",
+                    "subTitle": "An insider's look shows the mechanism of work"
+                },
+                {
+                    "title": "Street science",
+                    "subTitle": "Mr.Kevin leaves the lab and goes to resturant"
+                },
+                {
+                    "title": "How do they do it?",
+                    "subTitle": "An insider's look shows the mechanism of work"
+                },
+                {
+                    "title": "Street science",
+                    "subTitle": "Mr.Kevin leaves the lab and goes to resturant"
+                }
+            ]
+        }
+    ]
+}

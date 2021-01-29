@@ -1,0 +1,13 @@
+@import '../../_settings/_variables.css';
+
+.buttonPrimary {
+    background-color: #2789ff;
+    padding: 0 10px;
+    border-radius: 4px;
+    color: white;
+    outline: none;
+    height: 35px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+}

@@ -1,0 +1,25 @@
+@import "../../_settings/_variables.css";
+
+.search {
+  position: relative;
+  padding-right: 1.7rem;
+}
+
+.searchInput {
+  background: none;
+  border: none;
+  border-bottom: 0.3px solid var(--border-bottom);
+  width: 25rem;
+  outline: none;
+  height: 2.5rem;
+}
+
+.searchInput:focus {
+  border-bottom: 0.3px solid var(--border-bottom-focus);
+}
+
+.searchIcon {
+  position: absolute;
+  right: 30px;
+  top: 12px;
+}

@@ -1,0 +1,17 @@
+
+.categoryDisplay {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    overflow: auto;
+    padding: 1rem 5rem;
+    max-width: 89vw;
+}
+
+.categoryDisplay::-webkit-scrollbar {
+    display: none;
+}
+
+.cardPadding {
+    margin-right: 20px;
+}
